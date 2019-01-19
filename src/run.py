@@ -132,7 +132,7 @@ class MyFrame(wx.Frame):
             pyautogui.hotkey('command', 'tab')
             pyautogui.click(button="left")
 
-            print("click")
+            self.handle_hotkey(None)
 
 
 
