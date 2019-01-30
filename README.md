@@ -6,6 +6,8 @@ Click anything on screen in any application using only five keyboard keys.
 
 The item to click is located visually using a two dimensional divide and conquer approach.
 
+[Background and motivation (blog post).](https://morganbentell.wordpress.com/2019/01/29/moving-away-from-the-mouse-part-2/)
+
 Note: Currently only working on Mac.
 
 ### Install
